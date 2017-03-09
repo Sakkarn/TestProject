@@ -1,6 +1,2 @@
-echo "# TestProject" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Sakkarn/TestProject.git
-git push -u origin master
+Hello,
+This is the first time to use GIT Hub.
